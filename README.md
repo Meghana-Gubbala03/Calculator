@@ -3,6 +3,7 @@ A sleek, stylish, and powerful Scientific Calculator built using HTML, CSS, and 
 Inspired by modern scientific calculator layouts — this beauty comes packed with features for both basic and advanced math lovers 💙
 
 🚀 Features
+
 🧮 Basic Math Operations — +, -, ×, ÷, mod, x², 1/x, etc.
 
 📐 Scientific Functions — log, ln, exp, π, e, n!, 10^x, etc.
@@ -18,11 +19,12 @@ Inspired by modern scientific calculator layouts — this beauty comes packed wi
 🎤 Voice Input — Speak your expressions and get results 🔥
 
 📁 Files Included
-index.html — Main calculator structure
 
-style.css — All the stylish vibes and layout
+-> index.html — Main calculator structure
 
-script.js — JavaScript logic for full functionality
+-> style.css — All the stylish vibes and layout
+
+-> script.js — JavaScript logic for full functionality
 
 You can also bundle it all into one .html file for easy deployment as I did!
 
@@ -33,14 +35,12 @@ Start calculating like a genius 😎
 Try voice input (browser must support Web Speech API)
 
 ✨ Live Demo (Optional)
-Coming soon... (deploy it on GitHub Pages or Netlify and paste link here)
+https://meghana-gubbala03.github.io/Calculator/
 
 📚 Tech Stack
-HTML5
-
-CSS3
-
-Vanilla JavaScript (No libraries, all handmade ✋✨)
+- HTML5
+- CSS3
+- JavaScript (No libraries, all handmade ✋✨)
 
 🙌 Author
 Made with 💖 by Meghana
